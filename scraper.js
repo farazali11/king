@@ -36,6 +36,7 @@ wallpapper,
 sfilesearch,
 servermc,
 hoax
+pornhub
 } = require('./dl.js');
 
 module.exports.tiktok = tiktok
